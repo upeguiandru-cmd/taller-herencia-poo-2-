@@ -1,0 +1,14 @@
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\bin\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.exe
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\bin\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.deps.json
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\bin\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.runtimeconfig.json
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\bin\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.dll
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\bin\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.pdb
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.AssemblyInfoInputs.cache
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.AssemblyInfo.cs
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.csproj.CoreCompileInputs.cache
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.dll
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\refint\CUsersupeguDocumentsTallerHerencia.dll
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.pdb
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\CUsersupeguDocumentsTallerHerencia.genruntimeconfig.cache
+C:\Users\upegu\OneDrive\Documentos\CUsersupeguDocumentsTallerHerencia\obj\Debug\net9.0\ref\CUsersupeguDocumentsTallerHerencia.dll
